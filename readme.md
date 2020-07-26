@@ -1,4 +1,4 @@
-#MinesweeperFX
+# MinesweeperFX
 
 Minesweeper desktop game
 
